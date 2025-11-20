@@ -1,0 +1,24 @@
+{
+  "name": "NEXA TECH IT SOLUTIONS",
+  "short_name": "NEXA TECH",
+  "description": "Professional IT solutions and digital services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0392FC",
+  "theme_color": "#0392FC",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "technology", "productivity"],
+  "lang": "en-US"
+}

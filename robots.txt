@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://nexatechitsolutions.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Allow important assets
+Allow: /assets/css/
+Allow: /assets/img/
+Allow: /assets/logo.svg
+Allow: /assets/icons.svg
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /.git/
+
+# Block specific file types
+Disallow: /*.js$
+Disallow: /*.json$
